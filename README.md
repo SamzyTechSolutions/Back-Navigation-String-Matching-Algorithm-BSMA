@@ -60,7 +60,7 @@ The main class for the algorithm is `BackNavigationStringMatchingAlgorithm.java`
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SamzyTechSolutions/BackNavigationStringMatchingAlgorithm-BSMA.git
+    [git clone https://github.com/SamzyTechSolutions/BackNavigationStringMatchingAlgorithm-BSMA.git](https://github.com/SamzyTechSolutions/Back-Navigation-String-Matching-Algorithm-BSMA.git)
     cd BackNavigationStringMatchingAlgorithm-BSMA
     ```
 
